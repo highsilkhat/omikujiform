@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+body {
+	margin: 10px;
+}
+
+.box {
+
+	width: 70% auto;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	
+	
+}
+
+.card {
+	background-color: lightblue;
+	border: 1px black solid;
+	width: 33% auto;
+}
